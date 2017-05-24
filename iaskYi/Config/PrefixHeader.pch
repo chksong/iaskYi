@@ -1,0 +1,23 @@
+//
+//  PrefixHeader.pch
+//  iaskYi
+//
+//  Created by chksong on 2016/12/10.
+//  Copyright © 2016年 chksong company. All rights reserved.
+//
+
+#ifndef PrefixHeader_h
+#define PrefixHeader_h
+
+#import "AppHeader.h"
+#import "UIView+Extra.h"
+
+#import "BaseViewController.h"
+#import "BaseNavigationController.h"
+
+
+
+
+
+
+#endif /* PrefixHeader_h */
